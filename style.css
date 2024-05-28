@@ -1,0 +1,48 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px grey;
+background-color: black !important;
+}
+.headingDiv
+{
+ float: none;
+ background: rgb(253, 1, 236);
+ padding: 10px;
+ border-radius: 20px;
+ color: black;
+ box-shadow: 20px 20px 10px rgb(196, 1, 255);
+}
+.headingDiv2
+{
+ font-size: 18px;
+}
+.resultToTag{
+  box-shadow: 20px 20px 10px rgb(135, 124, 124);
+  font-size: 20px;
+}
+
+.copyRightFooter {
+  position: fixed;
+  color: rgb(255, 0, 247);
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  line-height: 3;
+  text-align: center;
+}
+
+.resultToTag{
+  background-color: rgb(255, 0, 225);
+  box-shadow: 10px 10px 5px grey
+}
+
+canvas{
+  border: 5px solid white;
+  border-radius: 20px;
+  box-shadow: 20px 20px 10px black;
+  margin-top: 160px;
+}
+ 
